@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f5d64a0-5350-40e8-9638-6146c7c8b73d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hYRczEx41RE5V4wSx6VEKMQKq6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.unlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Order products by searching name">
+    <configuration name="Feature: OrderProduct" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/features/OrderProduct.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors VCS_Tiki.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TikiProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: OrderProduct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Order products by searching name" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/features/OrderProduct.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors VCS_Tiki.defs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TikiProject" />
+      <option name="NAME_FILTER" value="^Order products by searching name$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Order products by searching name$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Order products by searching name" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Order products by searching name" />
+        <item itemvalue="Cucumber java.Feature: OrderProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f5d64a0-5350-40e8-9638-6146c7c8b73d" name="Default Changelist" comment="" />
+      <created>1600186127882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600186127882</updated>
+      <workItem from="1600186157470" duration="3579000" />
+      <workItem from="1600224085035" duration="35555000" />
+      <workItem from="1600271072436" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1600228389362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1600228389362" />
+    <state x="416" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600193160821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600193160821" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1600224366885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600224366885" />
+    <state width="1159" height="2" key="GridCell.Tab.0.bottom" timestamp="1600270694700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600270694700" />
+    <state width="1159" height="2" key="GridCell.Tab.0.center" timestamp="1600270694700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600270694700" />
+    <state width="1159" height="2" key="GridCell.Tab.0.left" timestamp="1600270694700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600270694700" />
+    <state width="1159" height="2" key="GridCell.Tab.0.right" timestamp="1600270694700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1159" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600270694700" />
+    <state x="263" y="98" key="IDE.errors.dialog" timestamp="1600271281611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1600271281611" />
+    <state x="368" y="11" key="SettingsEditor" timestamp="1600231256512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600231256512" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600268624201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600268624201" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1600224091761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600224091761" />
+    <state x="435" y="284" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1600224368059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="284" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600224368059" />
+    <state x="275" y="22" key="scopes" timestamp="1600224292351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1600224292351" />
+  </component>
+</project>
